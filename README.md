@@ -1,6 +1,4 @@
-Sure! Here’s a more polished version of your profile with a focus on your DevOps expertise:
 
----
 
 <h1 align="center">Hi 👋, I'm Durgamallesh Reddy</h1>
 <h3 align="center">A passionate Software Engineer specializing in Cloud and DevOps</h3>
