@@ -3,8 +3,9 @@
 <h1 align="center">Hi 👋, I'm Durgamallesh Reddy</h1>
 <h3 align="center">A passionate Software Engineer specializing in Cloud and DevOps</h3>
 
-![235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf](https://github.com/user-attachments/assets/ff52f388-ceaa-4268-b7ab-e90ce62502b0)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ff52f388-ceaa-4268-b7ab-e90ce62502b0" alt="Profile GIF" width="300" height="auto" />
+</p>
 
 <p align="center">
   <strong>🚀 Transforming ideas into scalable solutions with a DevOps mindset</strong>
@@ -32,8 +33,7 @@
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
   </a>
-  <a href="https://www.jenkins.io" target="_bl![238353480-219bcc70-f5dc-466b-9a60-29653d8e8433](https://github.com/user-attachments/assets/5105a30d-78d8-476e-842e-ac162f7f929b)
-ank" rel="noreferrer">
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
   </a>
   <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer">
@@ -88,5 +88,6 @@ ank" rel="noreferrer">
 
 <h3 align="left">About Me:</h3>
 <p align="left">
-  With over 1 of experience as a DevOps Engineer, I thrive in environments where I can leverage my skills in continuous integration and deployment, infrastructure automation, and cloud management. My focus is on streamlining operations to enhance productivity and reliability in software development and delivery. I am passionate about creating scalable, efficient systems and am constantly exploring new technologies to stay ahead in the ever-evolving tech landscape.
+  With over 1.3 years of experience as a DevOps Engineer, I thrive in environments where I can leverage my skills in continuous integration and deployment, infrastructure automation, and cloud management. My focus is on streamlining operations to enhance productivity and reliability in software development and delivery. I am passionate about creating scalable, efficient systems and am constantly exploring new technologies to stay ahead in the ever-evolving tech landscape.
 </p>
+
