@@ -29,7 +29,8 @@
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
   </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
+  <a href="https://www.jenkins.io" target="_bl![238353480-219bcc70-f5dc-466b-9a60-29653d8e8433](https://github.com/user-attachments/assets/5105a30d-78d8-476e-842e-ac162f7f929b)
+ank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
   </a>
   <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer">
