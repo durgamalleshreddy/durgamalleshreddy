@@ -3,6 +3,9 @@
 <h1 align="center">Hi 👋, I'm Durgamallesh Reddy</h1>
 <h3 align="center">A passionate Software Engineer specializing in Cloud and DevOps</h3>
 
+![235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf](https://github.com/user-attachments/assets/ff52f388-ceaa-4268-b7ab-e90ce62502b0)
+
+
 <p align="center">
   <strong>🚀 Transforming ideas into scalable solutions with a DevOps mindset</strong>
 </p>
