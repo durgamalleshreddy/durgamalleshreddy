@@ -88,6 +88,6 @@
 
 <h3 align="left">About Me:</h3>
 <p align="left">
-  With over 2 years of experience as a DevOps Engineer, I thrive in environments where I can leverage my skills in continuous integration and deployment, infrastructure automation, and cloud management. My focus is on streamlining operations to enhance productivity and reliability in software development and delivery. I am passionate about creating scalable, efficient systems and am constantly exploring new technologies to stay ahead in the ever-evolving tech landscape.
+  With over 3+ years of experience as a DevOps Engineer, I thrive in environments where I can leverage my skills in continuous integration and deployment, infrastructure automation, and cloud management. My focus is on streamlining operations to enhance productivity and reliability in software development and delivery. I am passionate about creating scalable, efficient systems and am constantly exploring new technologies to stay ahead in the ever-evolving tech landscape.
 </p>
 
